@@ -1,0 +1,9 @@
+{
+  "enabled": [
+    "dataview",
+    "templater-obsidian",
+    "quickadd",
+    "obsidian-chartsview-plugin",
+    "calendar"
+  ]
+}

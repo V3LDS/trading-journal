@@ -1,0 +1,11 @@
+# Obsidian workspace state (personal to each user)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/cache
+
+# macOS
+.DS_Store
+
+# Personal assets (chart screenshots — keep local)
+_Assets/

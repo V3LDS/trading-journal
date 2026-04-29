@@ -1,0 +1,6 @@
+{
+  "newFileLocation": "01 - Daily Reviews",
+  "template": "_Templates/Daily Review",
+  "autorun": false,
+  "format": "YYYY-MM-DD"
+}

@@ -1,0 +1,39 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"02 - Trades\"",
+      "color": { "a": 1, "rgb": 3394764 }
+    },
+    {
+      "query": "path:\"01 - Daily Reviews\"",
+      "color": { "a": 1, "rgb": 2013265 }
+    },
+    {
+      "query": "path:\"05 - Strategies\"",
+      "color": { "a": 1, "rgb": 14098945 }
+    },
+    {
+      "query": "path:\"00 - Dashboard\"",
+      "color": { "a": 1, "rgb": 9699329 }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1,
+  "close": false
+}
