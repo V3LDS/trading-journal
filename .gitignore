@@ -9,3 +9,9 @@
 
 # Personal assets (chart screenshots — keep local)
 _Assets/
+
+# Quartz build output
+public/
+
+# Node
+node_modules/
